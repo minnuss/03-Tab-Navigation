@@ -1,13 +1,13 @@
-# Markdown Editor - REACT
+# Tab Navigation - REACT
 
-TITLE - Markdown Editor
+TITLE - Tab Navigation
 
-About - On the left a user can write all that he wants to be desplayed on the right with markdown writing format.
+About - Tab Navigation with React Router, and mouse hover effect on Tabs
 
 TECHNOLOGIES USED:
 
 - HTML5
 - Google Fonts
 - CSS3 with Sass
-- JavaScript REACT with Local Storage
+- JavaScript REACT with React Router
 - Git
